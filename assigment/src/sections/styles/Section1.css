@@ -1,0 +1,40 @@
+.section1 .announcement{
+    padding: 20px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    border-radius: 20px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.section1 .announcement .announce-field {
+    display: flex;
+    gap: 10px;
+    background-color: #F8F8F8;
+}
+.section1 .announcement .announce-field .announce-data{
+    display: flex;
+    gap: 14px;
+    align-items: center;
+    padding: 5px 15px;
+    color: #4749B3;
+}
+.section1 .announcement .announce-field img{
+    width: 20px;
+    height: 20px;   
+}
+.section1 .announcement .announce-field .paraData p{
+    font-size: 12px;
+    line-height: 15px; 
+}
+
+.section1 .schedule-header{
+    color : #3A3A3A;
+    margin-top: 24px;
+    margin-bottom: 14px;
+}
+.section1 .schedule-meet{
+ 
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+ 

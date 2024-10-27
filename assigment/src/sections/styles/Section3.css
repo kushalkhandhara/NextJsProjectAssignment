@@ -1,0 +1,30 @@
+.section3 .serchInp{
+    position: relative;
+ 
+}
+.section3 .serchInp img{
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    padding-left: 8px;
+}
+.section3 .serchInp input{
+    border: none;
+    outline: none;
+    padding: 6px;
+    padding-left: 32px;
+    font-size: 12px;
+    color: #979797;
+}
+@media (max-width: 900px){
+    .section3 .serchInp input{
+ 
+        padding: 10px;
+        padding-left: 32px;
+        font-size: 12px;
+ 
+    }
+}
+
+
+ 
