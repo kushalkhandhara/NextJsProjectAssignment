@@ -18,8 +18,8 @@ Run the following command to clone the project:
 ```bash
 git clone <repository-url>
 
-**Step 2:** Navigate to the Project Directory  
-Change to the directory of the cloned project:
+**Step 2:** Go the folder  
+By this command
 ```bash
-cd <project-directory>
+cd assigment
 
