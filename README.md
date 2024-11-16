@@ -1,5 +1,4 @@
 
-# Frontend Intern Assignment
 
 #### I have used NextJs Framework and For CSS I have used Tailwind CSS
 
